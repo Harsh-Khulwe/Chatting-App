@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727053870555",
+    "project_id": "getting-started-a67b6",
+    "storage_bucket": "getting-started-a67b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727053870555:android:9ad830d6f99118244db3fe",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHW3Bifn7NHi4BZMpkbPHFtziCRth_g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
